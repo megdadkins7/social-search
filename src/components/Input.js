@@ -4,6 +4,10 @@ import styled from 'styled-components'
 const StyledInput = styled.div`
   input {
     outline: none !important;
+    border: 1px solid #c6c6c6;
+    padding: 5px;
+    width: 300px;
+    border-radius: 7px;
   }
 `;
 
